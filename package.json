@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "escaping",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "joystick start",
+    "test": "joystick test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@joystick.js/node-canary": "^0.0.0-canary.1785",
+    "@joystick.js/test-canary": "^0.0.0-canary.1780",
+    "@joystick.js/ui-canary": "^0.0.0-canary.1780"
+  }
+}
